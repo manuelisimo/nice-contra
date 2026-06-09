@@ -1,6 +1,0 @@
-if SHIELD_CONTRA
-
-config ZMK_KEYBOARD_NAME
-    default "Nice Contra"
-
-endif
